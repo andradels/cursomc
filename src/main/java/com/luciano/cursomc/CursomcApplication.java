@@ -1,4 +1,4 @@
-package com.luciano.demo.cursomc;
+package com.luciano.cursomc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
